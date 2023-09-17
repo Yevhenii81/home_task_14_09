@@ -1,0 +1,89 @@
+#include <iostream>
+#include <Windows.h> 
+#include <ctime>
+#include <conio.h>
+using namespace std;
+
+void CreationEnumeration(){
+//1)Создание набора целочисленных констант
+}
+
+void GenerateMaze(){
+//2)Генерация лабиринта
+}
+
+void PlaceObjects(){
+//3)Расстановка объектов
+}
+
+void DrawMaze(){
+//4)Отрисовка лабиринта
+}
+
+void InitializeCharacter(){
+//5)Инициализация персонажа 
+}
+
+void ControlCharacter(){
+//6)Управление персонажем 
+}
+
+void CheckCollisions(){
+//7)Проверка коллизий
+}
+
+void CheckGameEnd(){
+//8)Проверка завершения игры
+}
+
+void UpdateStats(){
+//9)Обновление статистики 
+}
+
+void InteractWithCoins(){
+//10)Взаимодействие с монетами 
+}
+
+void InteractWithEnemies(){
+//11)Взаимодействие с врагами
+}
+
+void InteractWithMedicine(){
+//12)Взаимодействие с аптечками 
+}
+
+void DisplayCoinInfo(){
+//13)Вывод информации о монетах
+}
+
+void DisplayHealthInfo(){
+//14)Вывод информации о здоровье 
+}
+
+void VictoryMessage(){
+//15)Победное сообщение
+}
+
+void TerminateProgram(){
+//16)Завершение программы
+}
+
+int main{
+	1)CreationEnumeration();
+	2)GenerateMaze();
+	3)PlaceObjects();
+	4)DrawMaze();
+	5)InitializeCharacter();
+	6)DisplayCoinInfo();
+	7)DisplayHealthInfo();
+	8)ControlCharacter();
+	9)CheckCollisions();
+	10)CheckGameEnd();
+	11)UpdateStats();
+	12)InteractWithCoins();
+	13)InteractWithEnemies();
+	14)InteractWithMedicine();
+	15)VictoryMessage();
+	16)TerminateProgram();
+	
+}
